@@ -96,3 +96,25 @@
 - Tudo bem e você
 - como vc esta
 - como vai
+
+## intent:andreangelo
+- Quem e voce?
+- Voce e um robo?
+- Voce e um bot?
+- Quem e Andreangelo?
+- Quem te criou?
+- O que voce faz?
+
+## intent:remuneracao
+- Remuneracao
+- Remuneracao de projetos
+- Bolsa
+- Os projetos sao remunerados?
+- Ganho bolsa ao participar de um projeto?
+
+## intent:selecao
+- Quando abre a seleção
+- Seleção
+- Processo seletivo
+- Quando abre o processo seletivo
+- Como os alunos são selecionados

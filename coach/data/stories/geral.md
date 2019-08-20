@@ -37,3 +37,15 @@
 ## path 2
 * cumprimentar
     - utter_cumprimentar
+
+## andreangelo
+* andreangelo
+    - utter_andreangelo
+
+## remuneracao
+* remuneracao
+    - utter_remuneracao
+
+## selecao
+* selecao
+    - utter_selecao

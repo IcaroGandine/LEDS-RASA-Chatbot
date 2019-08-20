@@ -31,6 +31,10 @@ intents:
   - bff
   - historia
   - risada
+  
+  - andreangelo
+  - remuneracao
+  - selecao
 
   - action_test
 
@@ -411,6 +415,24 @@ templates:
 
         Você está feliz hoje, hein!?
 
+    utter_andreangelo:
+    - text: |
+        Olá, meu nome é Andreângelo e eu sou um assistente virtual criado por alunos do LEDS.
+
+        A minha função é informar as pessoas sobre o LEDS, então se surgir alguma dúvida pode perguntar para mim. 
+
+    utter_remuneracao:
+    - text: |
+        Alguns projetos são contemplados com bolsas e outros não. 
+        
+        A existência de remuneração ou não é variável de acordo com o projeto.
+
+    utter_selecao:
+    - text: |
+        O leds abre seleção sempre que tem a necessidade renovar seus alunos para desenvolver os projetos que irão começar ou que já estão em andamento. 
+
+        Os alunos são selecionados por meio de um formulário de inscrição disponível no site do leds. Após essa etapa os alunos são chamados para uma entrevista. 
+
 actions:
   - utter_default
   - utter_cumprimentar
@@ -443,5 +465,9 @@ actions:
   - utter_bff
   - utter_historia
   - utter_risada
+
+  - utter_andreangelo
+  - utter_remuneracao
+  - utter_selecao
 
   - action_test
