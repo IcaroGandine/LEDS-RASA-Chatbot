@@ -35,6 +35,7 @@ intents:
   - andreangelo
   - remuneracao
   - selecao
+  - leds
 
   - action_test
 
@@ -433,6 +434,14 @@ templates:
 
         Os alunos são selecionados por meio de um formulário de inscrição disponível no site do leds. Após essa etapa os alunos são chamados para uma entrevista. 
 
+    
+    utter_leds:
+    - text: |
+        O Laboratório de Extensão e Desenvolvimento de Soluções (LEDS) é um programa de extensão ligado ao Instituto Federal do Espírito Santo Campus Serra. Atualmente conta com 8 professores e 21 alunos que atuam de forma interdisciplinar nos projetos.
+
+        O Laboratório visa fazer a conexão, por meio de projetos, de demandas de entidades governamentais, empresas e organizações sociais com alunos e professores.
+
+        
 actions:
   - utter_default
   - utter_cumprimentar
@@ -469,5 +478,6 @@ actions:
   - utter_andreangelo
   - utter_remuneracao
   - utter_selecao
+  - utter_leds
 
   - action_test
